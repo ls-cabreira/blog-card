@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --amarelo: hsl(47, 88%, 63%);
+    --branco: hsl(0, 0%, 100%);
+    --cinza: hsl(0, 0%, 50%);
+    --preto: hsl(0, 0%, 7%);
+    --fonte: "Figtree", sans-serif;
+}
+
+body {
+    background-color: var(--amarelo);
+    font-family: var(--fonte);
+    padding: 1rem;
+}
