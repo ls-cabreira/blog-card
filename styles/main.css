@@ -79,8 +79,4 @@ main {
     .blog-card__image-container img {
         margin-bottom: 2rem;
     }
-
-    .blog-card {
-        min-height: 75vh;
-    }
 }
